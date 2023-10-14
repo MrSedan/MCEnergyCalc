@@ -3,6 +3,13 @@ import Calc from "@/components/Calc.vue";
 </script>
 
 <template>
-  <div class="text-4xl font-bold text-center my-10">Test</div>
-  <Calc />
+  <div class="w-screen h-screen bg-gradient-to-br from-green-400 to-blue-400">
+    <div class="pt-10">
+      <p class="text-6xl font-bold text-center mb-5">MCEM</p>
+      <p class="text-2xl font-normal text-center mb-10">
+        A simple Minecraft Energy Converter for mods.
+      </p>
+    </div>
+    <Calc />
+  </div>
 </template>
