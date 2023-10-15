@@ -1,4 +1,4 @@
-# MCEM
+# MCEC
 
 ### A simple minecraft energy converter for mods
 
